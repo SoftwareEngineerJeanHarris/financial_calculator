@@ -45,9 +45,5 @@ To run the **financial_calculator** application, you need to install the followi
     To run the application, navigate to the directory with the the application and
     run the following:
     ```
-<<<<<<< HEAD
     lua .\main.lua
     ```
-=======
-    lua .\main.lua
->>>>>>> 3ff1bb7009f755a1a684a2842fd1eab623066333
