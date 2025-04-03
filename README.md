@@ -44,6 +44,6 @@ To run the **financial_calculator** application, you need to install the followi
 ### 1. Run instructions
     To run the application, navigate to the directory with the the application and
     run the following:
-    ``` bash
+    ```bash
     lua .\main.lua
     ```
